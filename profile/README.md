@@ -1,3 +1,3 @@
 # Welcome to Cytometa
 
-Cytometa is a dutch startup founded in 2023 and will bring FCM to the cloud.
+Cytometa is a Dutch startup founded in 2023. Cytometa will bring FCM to the cloud.
